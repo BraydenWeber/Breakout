@@ -165,13 +165,12 @@ public class breakout extends GraphicsProgram {
         waitForClick();
     }
 
-    public
 
     public static void main(String[] args) {
         new breakout().start();
     }
 
-
+// lets gooo
         //react accordingly
 
         //if we make it to the end and obj is still null, that means we hit nothing/
